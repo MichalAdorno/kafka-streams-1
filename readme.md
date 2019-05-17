@@ -3,7 +3,7 @@
 ### Start Zookeeper
 bin/zookeeper-server-start.sh config/zookeeper.properties
 
-###S tart Kafka Server
+### Start Kafka Server
 bin/kafka-server-start.sh config/server.properties
 
 ### Create Input Topic
