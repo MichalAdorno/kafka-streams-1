@@ -1,4 +1,4 @@
-## Kafka Environment Preparation
+## Kafka Streams (2.2.0) Environment Preparation
 
 ### Start Zookeeper
 bin/zookeeper-server-start.sh config/zookeeper.properties
